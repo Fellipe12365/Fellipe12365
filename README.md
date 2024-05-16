@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fellipe12365
 - 👀 I’m interested in learn about programation
-- 🌱 I’m currently learning java, java script, HTML and CSS
+- 🌱 I’m currently learning Java, Java Script, HTML, CSS and Power BI
 - 📫 How to reach me mendesluz1234@gmail.com
 
 <!---
